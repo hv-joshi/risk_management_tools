@@ -6,8 +6,8 @@ Web Scraping and reading OORfiles
 ## Prerequisites
 
 1. Python 
-
-2. Install The required Libraries:  
+2. Jupyter Notebook
+3. Install The required Libraries:  
   
 Run the Following in the Command Line 
 ``` 
