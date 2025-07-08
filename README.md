@@ -9,7 +9,9 @@ Web Scraping and reading OORfiles
 1. Python 
 
 2. Install The required Libraries:  
+  
 Run the Following in the Command Line 
 ``` 
-        pip install -r requirments.txt
+pip install -r requirments.txt
 ```
+
