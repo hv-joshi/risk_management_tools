@@ -3,8 +3,7 @@ Web Scraping and reading OORfiles
 
 # Documentation:
 
-## Running The Tools:
-### Prerequisites
+## Prerequisites
 
 1. Python 
 
@@ -15,6 +14,7 @@ Run the Following in the Command Line
 pip install -r requirments.txt
 ```
 (It is Recommended to create a virtual environment)
+## Running The Tools:
 
 ### Web Scraping:
 
